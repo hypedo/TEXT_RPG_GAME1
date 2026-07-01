@@ -8,7 +8,7 @@ public class RPG_GAME {
 	static int monster_level, monster_power, monster_hp, monster_defense, monster_mp, monster_exp, monster_gold;
 	static String hero_name, monster_name;
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
 		hero_level = 1;
 		hero_power = 15;
